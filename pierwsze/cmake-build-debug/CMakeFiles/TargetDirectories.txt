@@ -1,0 +1,3 @@
+/home/szlifier/zaliczeniepm5/cmake-build-debug/CMakeFiles/zaliczeniepm5.dir
+/home/szlifier/zaliczeniepm5/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/szlifier/zaliczeniepm5/cmake-build-debug/CMakeFiles/rebuild_cache.dir
