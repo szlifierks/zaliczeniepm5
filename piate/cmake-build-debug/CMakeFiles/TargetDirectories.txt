@@ -1,0 +1,3 @@
+C:/Users/mikol/Desktop/zaliczeniepm5/piate/cmake-build-debug/CMakeFiles/piate.dir
+C:/Users/mikol/Desktop/zaliczeniepm5/piate/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/mikol/Desktop/zaliczeniepm5/piate/cmake-build-debug/CMakeFiles/rebuild_cache.dir
